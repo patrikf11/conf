@@ -1,0 +1,13 @@
+{
+    "smtpServer": "WlP6WU5RHsX11zrE993YGQ==",
+    "smtpPort": "465",
+    "smtpUser": "BcnBo6tJeMaOjOjPd6ETXAPymt72sdUDXQn1XABQScE=",
+    "smtpPass": "9DuX4otlOPOIovOQ1QpDktd4fNhmJg1E8s6WkIB/VqY=",
+    "mailTo": "X7RyfRB1nwiJztrEiqAHaB69bpa0AfU1xVKWWpH7z0c=",
+    "mailTitle": "KBO-1",
+    "picSize": "2",
+    "lightLevel": "300",
+    "picInterval": "6",
+    "configInterval": "12",
+    "version": "0"
+}
