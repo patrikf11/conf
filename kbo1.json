@@ -7,7 +7,7 @@
     "mailTitle": "KBO-1",
     "picSize": "2",
     "lightLevel": "300",
-    "picInterval": "6",
-    "configInterval": "12",
-    "version": "2"
+    "picInterval": "60",
+    "configInterval": "60",
+    "version": "3"
 }
