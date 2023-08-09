@@ -5,9 +5,9 @@
     "smtpPass": "9DuX4otlOPOIovOQ1QpDktd4fNhmJg1E8s6WkIB/VqY=",
     "mailTo": "X7RyfRB1nwiJztrEiqAHaB69bpa0AfU1xVKWWpH7z0c=",
     "mailTitle": "KBO-1",
-    "picSize": "2",
+    "picSize": "3",
     "lightLevel": "300",
-    "picInterval": "4",
+    "picInterval": "3",
     "configInterval": "2",
-    "version": "7"
+    "version": "8"
 }
