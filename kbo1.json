@@ -1,13 +1,13 @@
 {
-    "smtpServer": "WlP6WU5RHsX11zrE993YGQ==",
+    "smtpServer": "up2gYhuo+jagpbgR9PjnPQ==",
     "smtpPort": "465",
-    "smtpUser": "BcnBo6tJeMaOjOjPd6ETXAPymt72sdUDXQn1XABQScE=",
-    "smtpPass": "9DuX4otlOPOIovOQ1QpDktd4fNhmJg1E8s6WkIB/VqY=",
-    "mailTo": "X7RyfRB1nwiJztrEiqAHaB69bpa0AfU1xVKWWpH7z0c=",
+    "smtpUser": "rKJ1/SlaIWbIP8hD/hpNAHEg5t/X+Fb9zWz5aUJNlkQ=",
+    "smtpPass": "s96IYjUe7dD4QQueREUAmChh7xP2y9q7pYzBK8Yx2dM=",
+    "mailTo": "LdoT59Y+pHvENcr/jBX9M6n0aDlJu4NcrfaNnR+JIKI=",
     "mailTitle": "KBO-1",
-    "picSize": "3",
-    "lightLevel": "300",
-    "picInterval": "3",
-    "configInterval": "2",
-    "version": "8"
+    "picSize": "2",
+    "lightLevel": "250",
+    "picInterval": "5",
+    "configInterval": "23",
+    "version": "1"
 }
