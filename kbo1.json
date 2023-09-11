@@ -4,10 +4,10 @@
     "smtpUser": "rKJ1/SlaIWbIP8hD/hpNAHEg5t/X+Fb9zWz5aUJNlkQ=",
     "smtpPass": "s96IYjUe7dD4QQueREUAmChh7xP2y9q7pYzBK8Yx2dM=",
     "mailTo": "LdoT59Y+pHvENcr/jBX9M6n0aDlJu4NcrfaNnR+JIKI=",
-    "mailTitle": "KBO-1",
+    "mailTitle": "KBO-11",
     "picSize": "1",
     "lightLevel": "250",
-    "picInterval": "7",
-    "configInterval": "23",
-    "version": "2"
+    "picInterval": "15",
+    "configInterval": "30",
+    "version": "3"
 }
